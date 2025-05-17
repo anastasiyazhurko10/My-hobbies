@@ -1,2 +1,2 @@
-# My-hobbies
-This is about me and my hobbies.
+# Обо мне
+Хочу рассказать о себе и своих увлечениях.
